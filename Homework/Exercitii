@@ -1,0 +1,3 @@
+1. In clasa IsPositiveTest, adaugati teste parametrizate pentru un set de valori negative
+2. In clasa Calculator, adaugati metode pentru a calcula: (1) diferenta a doua numere, (2) câtul impartirii a doua numere și (3) restul impãrţirii a douã numere
+3. In clasa CalculatorTest, testati cele trei metode adaugate
